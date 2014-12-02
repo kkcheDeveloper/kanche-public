@@ -17,13 +17,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kanche.merchant</string>
+				<string>com.kanche.merchant.ios8fix</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.4.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>看车帮</string>
+				<key>subtitle</key>
+				<string>kanche</string>
 			</dict>
 		</dict>
 	</array>
