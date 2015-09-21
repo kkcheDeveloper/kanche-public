@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kanche.zeus.ios8fix</string>
+				<string>com.kanche.zeus</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
