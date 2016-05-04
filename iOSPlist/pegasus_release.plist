@@ -13,25 +13,13 @@
 					<key>url</key>
                     <string>https://kkche-res.oss-cn-qingdao.aliyuncs.com/pegasus_release_2.0.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://kkche-res.oss-cn-qingdao.aliyuncs.com/pegasus_launcher-57</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://kkche-res.oss-cn-qingdao.aliyuncs.com/pegasus_launcher-512</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kanche.pegasus</string>
+				<string>com.kanche.pegasus.ios8fix</string>
 				<key>bundle-version</key>
-                <string>2.0</string>
+				<string>2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
