@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://kkche-res.oss-cn-qingdao.aliyuncs.com/zeus_release_3.4.7.4.ipa</string>
+                    <string>http://kkche-dev.oss-cn-qingdao.aliyuncs.com/mars.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://kkche-res.oss-cn-qingdao.aliyuncs.com/ic_launcher-web-57.png</string>
+					<string>https://kkche-qa.oss-cn-qingdao.aliyuncs.com/ic_launcher-web-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://kkche-res.oss-cn-qingdao.aliyuncs.com/ic_launcher-web.png</string>
+					<string>https://kkche-qa.oss-cn-qingdao.aliyuncs.com/ic_launcher-web.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kanche.zeus</string>
+				<string>com.kanche.mars</string>
 				<key>bundle-version</key>
-				<string>3.4.7.4</string>
+				<string>0.1.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>zeus</string>
+                <string>mars</string>
 			</dict>
 		</dict>
 	</array>
